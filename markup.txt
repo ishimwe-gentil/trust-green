@@ -8,3 +8,5 @@ chicken
 
 rice
 juice
+
+finish up my duty
