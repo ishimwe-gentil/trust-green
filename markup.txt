@@ -5,3 +5,6 @@ welcome to trust~green restaurant
 omlette
 chips
 chicken
+
+rice
+juice
